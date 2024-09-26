@@ -12,8 +12,10 @@ body{
     background-attachment: fixed;
     display: grid;
     justify-content: center;
-    align-items: center;
-}
+    align-items:   center;
+}     
+
+
 .Calculadora{
     background-color: rgb(119, 89, 175);
     width: 350px;
